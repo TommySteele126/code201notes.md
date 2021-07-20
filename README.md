@@ -37,3 +37,25 @@ Italic	* * or _ _	command/control + i	*This text is italicized*	This text is ita
 Strikethrough	~~ ~~		~~This was mistaken text~~	This was mistaken text
 Bold and nested italic	** ** and _ _		**This text is _extremely_ important**	This text is extremely important
 All bold and italic	*** ***		***All this text is important***	All this text is important
+
+
+
+
+
+
+## Table of Content
+*  
+* 
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
