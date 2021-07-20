@@ -39,6 +39,13 @@ Bold and nested italic	** ** and _ _		**This text is _extremely_ important**	Thi
 All bold and italic	*** ***		***All this text is important***	All this text is important
 
 
+## Markdown 
+* **Bold**
+* * *Italicize 
+* (link)[https://www.bing.com/images/search?q=batman&form=HDRSC3&first=1&tsc=ImageBasicHover]
+* #h1
+* ##h2
+
 
 
 
